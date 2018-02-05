@@ -30,8 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.gyazo.com/d1d93e0012767b9989afee95ff54f357.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<iframe class="imgur-embed" width="100%" height="878" frameborder="0" src="https://i.imgur.com/nT2ogVI.gifv#embed"></iframe>
 GIF created with [GyazoGIF](https://gyazo.en.softonic.com/).
 
 ## Notes
